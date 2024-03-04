@@ -3,3 +3,5 @@ Hello, Welcome to Git
 Git is Distributed Version Control System
 
 Git is a widely used tool to track code changes
+
+Git Staging: a temporary place where files are kept while working on the source code
